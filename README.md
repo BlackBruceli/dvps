@@ -13,7 +13,7 @@ How to Run the Project
 3. Run Docker Compose
   Execute the following command:
 
-  docker-compose up --build
+    docker-compose up --build
 
   This will start the FastAPI server and PostgreSQL in Docker containers.
 
