@@ -1,8 +1,7 @@
 How to Run the Project
 
 1. Install Docker
-  Ensure Docker is installed on your computer. You can download it here.
-
+  Ensure Docker is installed on your computer. 
 2. Configure the .env File
   Create a .env file in the root directory and add the following parameters:
 
